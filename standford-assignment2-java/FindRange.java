@@ -1,9 +1,8 @@
 /*
  * File: FindRange.java
- * Name: 
- * Section Leader: 
- * --------------------
- * This file is the starter file for the FindRange problem.
+ * Name: Panawat Iteeyaporn
+ * The program compares INT input and store only 
+ * the lowest and highest numbers.
  */
 
 import acm.program.*;
